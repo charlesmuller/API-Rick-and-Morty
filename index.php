@@ -11,6 +11,7 @@
 		var_dump($resultado);
 		foreach ($resultado->results as $personagem){
 			echo "Personagem: " . $personagem->name . "<br>";
+			
 			echo "Localização: " . $personagem->location . "<br>";
 		}
 		
