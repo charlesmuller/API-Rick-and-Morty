@@ -22,5 +22,4 @@ Novas implementações no app:
 - Não é possível trocar de personagem pela interface;
 - Não puxa os episódios que os personagem estão automaticamente, apenas apresenta um episódio qualquer que foi setado no código;
 - Filtra pelo gênero do personagem mas na troca no id no código é necessário saber o id do personagem para apresentar na tela;
-- Não puxa mais do que uma página da api por vez (é preciso ir até a variável $url e alterar a "page" para 2 ou 3... para pegar 
-outras páginas;
+- Não puxa mais do que uma página da api por vez (é preciso ir até a variável $url e alterar a "page" para 2 ou 3... para pegar outras páginas;
